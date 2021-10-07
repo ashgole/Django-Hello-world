@@ -1,4 +1,4 @@
-📱 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=blue" />
+📱 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=yellow" />
 
 # django hello world
 
